@@ -26,6 +26,9 @@
 
 	<dependencies>
 		
+		
+	</distributionManagement>
+		
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
